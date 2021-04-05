@@ -1,5 +1,5 @@
 
-# Overview of Frameworks
+# Framework Overview
 
 Governing bodies, intergovernmental organizations like the United Nations, and nongovernmental organizations like the ACLU have all recently published frameworks for AI ethics and machine learning and bias in the last several years. Below, we outline some of the most noteworthy, and organize our review into a table that enables esay comparison between these documents. 
 
